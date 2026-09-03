@@ -1,0 +1,2 @@
+- [x] Update `GeminiAnalyzer.kt` to use `models/gemini-3.6-flash`
+- [ ] Verify build and functionality
